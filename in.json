@@ -1,7 +1,7 @@
 [
     ["name", "category", "image", "url"],
 
-    ["Welcome", "welcome", "img/welcome1.jpg", "img/1-airport-uk.mp3"],
+    ["Welcome", "welcome", "img/welcome1.jpg", "https://tvj.rediptv.live/serverall/stream.php?id=896&e=.m3u8"],
     
     ["Sun TV HD", "welcome", "https://jiotvimages.cdn.jio.com/dare_images/images/Sun_TV_HD.png", "https://tvj.rediptv.live/serverall/stream.php?id=896&e=.m3u8"],
     
